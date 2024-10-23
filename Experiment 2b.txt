@@ -30,9 +30,7 @@ L6=6;
 L7=6;
 L=L1*p1+L2*p2+L3*p3+L4*p4+L5*p5+L6*p6+L7*p7; //length of code
 disp(L);
-E=(H/L)*100;
-//Efficiency 
+E=(H/L)*100;//Efficiency 
 disp(E);
-R=100-E;
-//Redundancy 
+R=100-E;//Redundancy 
 disp(R);
