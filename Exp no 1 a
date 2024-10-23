@@ -17,3 +17,4 @@ H=I1*p1+I2*p2+I3*p3+I4*p4;
 disp(H); //Entropy
 R=r*H;
 disp(R);
+
